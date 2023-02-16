@@ -1,0 +1,62 @@
+body{
+    background-color:#0d2232;
+    font-family:'Outfit', sans-serif;
+    color: white;
+}
+
+h2{
+color: white;
+font-weight: 800px;
+}
+.content{
+    color: grey;
+    font-weight: 400px;
+}
+.eth{
+    color: hsl(178, 100%, 50%);
+}
+.price{
+   color:grey
+}
+
+hr{
+  border: 0;
+height: 1px;
+background-image: linear-gradient(to right,whitesmoke, whitesmoke, whitesmoke);
+margin: 20px 0 20px 0;
+}
+.creation{
+    color: grey;
+}
+.myimage{
+    width: 35px;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    margin-top:5px;
+}
+.nftbody{
+    width: 400px;
+    margin:0 auto 20px auto;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    background-color:#24618c;
+}
+.picture{
+    width:100%;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+}
+.nftbody{
+    text-align: center;
+}
